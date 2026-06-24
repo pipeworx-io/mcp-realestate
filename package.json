@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-realestate",
+  "version": "0.1.0",
+  "description": "Real Estate Japan MCP — actual residential/commercial transaction prices and",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "realestate"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-realestate"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
