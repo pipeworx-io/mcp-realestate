@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/realestate",
   "title": "Realestate",
   "description": "Real Estate Japan MCP — actual residential/commercial transaction prices and",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/realestate",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-realestate",
