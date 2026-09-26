@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-realestate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Real Estate Japan MCP — actual residential/commercial transaction prices and",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-e8fd131ae9fb9798c6454da3e412610d3796c3145991f239015c97903fed8d48",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-bd48cd8ce49323cbbc97fcaf4d17a21b28f188e09c0731cebd6bc67b31cceed4",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
