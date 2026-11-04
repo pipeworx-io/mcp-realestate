@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-realestate",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Real Estate Japan MCP — actual residential/commercial transaction prices and agreed (contract) prices for Japan, from MLIT's 不動産情報ライブラリ (Real Estate Information Library) public API.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "realestate",
     "gatewaySlug": "realestate",
-    "sourceHash": "v1-beefde157ef00e1f2999a38912641d98de44bafb9ed772ae2694971b3ff6507e",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-43e841a97958a7b382e446b08fc871bd1432fc1d64f28ce4c1bc87b511d3a160",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
